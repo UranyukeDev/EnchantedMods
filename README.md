@@ -27,7 +27,7 @@ Thanks to **Scrapper_101**, all three mods have been successfully updated for **
 ## 🛠️ Support & Contributions
 
 These mods are **no longer actively developed** beyond the 1.1 port.  
-If you encounter bugs or want to contribute enhancements, feel free to pull request.
+If you want to continue the development or want to contribute enhancements, feel free to pull request.
 
 ---
 
