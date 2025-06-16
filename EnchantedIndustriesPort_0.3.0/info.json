@@ -1,0 +1,9 @@
+{
+	"name": "EnchantedIndustriesPort",
+	"version": "0.3.0",
+	"title": "Enchanted Industries & Chemicals",
+	"author": "Scrapper_101",
+	"factorio_version": "1.1",
+	"description": "Adds new ores such as nickel, aluminum, chromium and shale. Adds new ways to get electricity. Changes oil processing. Requires Enchanted Electronics and Enchanted Nuclear.",
+	"dependencies": ["EnchantedElectronicsPort >= 0.3.0", "EnchantedNuclearPort >= 0.3.1"]
+}

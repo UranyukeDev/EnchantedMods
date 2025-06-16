@@ -1,0 +1,85 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.4
+Date: 08. 03. 2020
+  Changes:
+    - Update for facorio version 1.1.X
+---------------------------------------------------------------------------------------------------
+Version: 0.2.4
+Date: 08. 03. 2020
+  Changes:
+    - Rail signal, chain signal and train stop recipe now don't require ultrasonic sensor and rgb led
+---------------------------------------------------------------------------------------------------
+Version: 0.2.3
+Date: 08. 03. 2020
+  Changes:
+    - Rail signal, chain rail signal and train stop recipe don't require ultrasonic sensor and rgb led for factorio version 0.17
+---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 02. 03. 2020
+  Features:
+    - Update for factorio version 0.18.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 02. 03. 2020
+  Features:
+    - Update for factorio version 0.17.
+  Changes:
+    - Microcontroller item and recipe removed.
+    - Processing unit replaced with nano computer which require processing unit to be built.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 26. 02. 2020
+  Features:
+    - Added 2 new items: glassfiber and printed circuit board.
+    - Glass and silicon wafer texture changed.
+  Changes:
+    - Advanced circuit recipe changed.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.7
+Date: 21. 02. 2020
+  Changes:
+    - Electronic circuit, advanced circuit and processing unit texture changed.
+    - Transistor, integrated circuit, microcontroller, electronics factory and glass recipe changed.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.6
+Date: 12. 02. 2020
+  Changes:
+    - Electronic circuit, advanced circuit, wood fiber, wood stick texture changed.
+    - Now advanced circuit need electronic circuits to his recipe rather than capacitors.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.5
+Date: 08. 02. 2020
+  Features:
+    - Adds cultivator which produce 5 wood sticks with water
+    - 1 wood stick can be transformed into 2 wood fiber
+---------------------------------------------------------------------------------------------------
+Version: 0.1.4
+Date: 05. 02. 2020
+  Features:
+    - Adds diode component
+    - Adds wood fiber
+    - Adds tin cable
+  Changes:
+    - Electronic circuit recipe changed
+    - Other recipe to get electronic circuit
+    - Integrated circuit recipe changed
+    - Advanced circuit recipe changed
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 29. 01. 2020
+  Features:
+    - Update to 0.18
+  Changes:
+    - Removed iron and tin screws
+    - Gallium arsenide now is easier to make
+    - Sand now is easier to make
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 19. 01. 2020
+  Features:
+    - Changed the game thumbnail
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 18. 01. 2020
+  Major Features:
+    - Initial release

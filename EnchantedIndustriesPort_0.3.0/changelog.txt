@@ -1,0 +1,168 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 11. 17. 2022
+  Changes:
+    - Update for factorio version 1.1.X
+---------------------------------------------------------------------------------------------------
+Version: 0.2.7
+Date: 15. 05. 2020
+  Changes:
+    - Fixed vegetable matter name.
+    - Moved screws and steel gear wheel to intermediate products.
+    - Changed battery recipe.
+    - Greater probability of having zinc ore in the stone separation(20% -> 40%).
+    - Changed copper plate to bronze plate ratio.
+    - For now the only way to get zinc is to separate stone, i'm looking for a better way to get zinc without having to use the probability.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.6
+Date: 06. 04. 2020
+  Changes:
+    - Changed some items icons.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.5
+Date: 06. 04. 2020
+  Changes:
+    - Logistic science pack recipe changed.
+    - Fast transport belt recipe changed.
+    - Some technologies need new prerequisities.
+  Graphics:
+    - Some fluid icons changed.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.4
+Date: 01. 04. 2020
+  Features:
+    - Added the hydro treater.
+    - Added hydrogen sulfide fluid and new recipes for hydro treater.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.3
+Date: 29. 03. 2020
+  Features:
+    - Added sodium hydroxyde and waste items like chemical waste and dirty water.
+  Graphics:
+    - Added new texture for electrolyser made from blender.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 27. 03. 2020
+  Features:
+    - Added working sound for air pump.
+  Changes:
+    - Changed some science packs recipe.
+  Graphics:
+    - Added new texture for air pump made from blender.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 23. 03. 2020
+  Features:
+    - Fluid rejector replaced with fluid burner.
+  Changes:
+    - Iron, copper, tin, aluminum, nickel, chromium and zinc plates icon changed.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 18. 03. 2020
+  Features:
+    - Added fluid rejector that releases unnecessary liquid and gas into water.
+    - Added new recipes.
+  Changes:
+    - Foundry texture and size changed.
+    - Steel boiler pollution changed.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.18
+Date: 14. 03. 2020
+  Features:
+    - Added water pumpjack that pump water anywhere on the map by using motor pumps.
+    - Added new fluids: liquid nitrogen, liquid oxygen, liquid hydrogen.
+    - New ways to make rocket fuel, batteries and sulfur.
+  Changes:
+    - Foundry crafting speed changed.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.17
+Date: 09. 03. 2020
+  Changes:
+    - Rail signal and rail chain signal recipe now require rgb led.
+    - Foundry pollute less.
+    - Refined concrete recipe changed.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.14
+Date: 07. 03. 2020
+  Features:
+    - New fluids: benzene, ethylbenzene, styrene, epoxy, ammonium nitrate and more.
+    - New items: synthetic rubber, polystyrene and reinforced plastic.
+    - New easier way to get basalt from stone in a foundry.
+  Changes:
+    - Some recipes changed.
+    - Oil combustion balanced.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.13
+Date: 04. 03. 2020
+  Features:
+    - Update for mod Enchanted Nuclear for factorio version 0.18
+---------------------------------------------------------------------------------------------------
+Version: 0.0.12
+Date: 04. 03. 2020
+  Features:
+    - Update for mod Enchanted Nuclear for factorio version 0.17
+---------------------------------------------------------------------------------------------------
+Version: 0.0.11
+Date: 02. 03. 2020
+  Features:
+    - Update for mod Enchanted Electronics for factorio version 0.18
+---------------------------------------------------------------------------------------------------
+Version: 0.0.10
+Date: 02. 03. 2020
+  Features:
+    - Update for mod Enchanted Electronics for factorio version 0.17
+---------------------------------------------------------------------------------------------------
+Version: 0.0.9
+Date: 29. 02. 2020
+  Features:
+    - Added air pump that can pump oxygen and nitrogen from the air.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+Date: 28. 02. 2020
+  Features:
+    - Added lithium ion accumulator.
+    - Added new fluids: organic oil, methanol, natural gas, ammonia and ethylene.
+    - New oil combustion recipes: ethylene combustion and methanol combustion.
+    - Added natural gas processing.
+  Changes:
+    - Chemical science pack recipe changed.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+Date: 26. 02. 2020
+  Changes:
+    - Updated with new version of Enchanted Electronics.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 24. 02. 2020
+  Bugfixes:
+    - Unable to produce oxygen.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 24. 02. 2020
+  Features:
+    - Added wood processing
+    - Added lithium processing
+    - Addew new recipes and new items
+  Bugfixes:
+    - Fixed problem to get basalt
+    - Sodium chloride changed icon
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 22. 02. 2020
+  Bugfixes:
+    - Fixed unable to unlock engine unit for 0.17
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 22. 02. 2020
+  Bugfixes:
+    - Fixed unable to unlock engine unit for 0.18
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 20. 02. 2020
+  Features:
+    - Added version for 0.17.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 20. 02. 2020
+  Major Features:
+    - Initial release.
